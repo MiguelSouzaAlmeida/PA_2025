@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="9keKmyIkw__XscfO2x09">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AbXDP5d76ZmuEYkQfilR-1" target="AbXDP5d76ZmuEYkQfilR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AbXDP5d76ZmuEYkQfilR-2" target="AbXDP5d76ZmuEYkQfilR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-2" value="valor, quantidade" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AbXDP5d76ZmuEYkQfilR-4" target="AbXDP5d76ZmuEYkQfilR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-4" value="valor = valor*quantidade&lt;div&gt;comissao = (venda/5)*100&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AbXDP5d76ZmuEYkQfilR-2" target="AbXDP5d76ZmuEYkQfilR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AbXDP5d76ZmuEYkQfilR-7" target="AbXDP5d76ZmuEYkQfilR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-7" value="comissao" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXDP5d76ZmuEYkQfilR-9" value="fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
